@@ -1,0 +1,5395 @@
+{
+  "sets": [
+    {
+      "id": "1786955334700-c6e5099f",
+      "title": "English - 14st lesson",
+      "description": "",
+      "updatedAt": "2026-08-17T09:53:08Z",
+      "cards": [
+        {
+          "id": "card-1786957150203-386084bd8b05f8",
+          "term": "designer brand",
+          "definition": "вишуканий бренд",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786957150203-264edb90342a48",
+          "term": "high-street brand",
+          "definition": "масовий бренд",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786957150203-4c19007abae9a",
+          "term": "till",
+          "definition": "каса(UK)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786957150203-7f4983276db2",
+          "term": "register",
+          "definition": "каса (US)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786957150203-f677158d921fb",
+          "term": "shopping center",
+          "definition": "великий ТЦ",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786957150203-0a3b9d3a7cd738",
+          "term": "department store",
+          "definition": "один великий універмаг",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786957150203-5c560a9a3c8768",
+          "term": "shop assistant",
+          "definition": "консультат(UK)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786957150203-ee423811768128",
+          "term": "salesclerk",
+          "definition": "консультат(US)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786957150203-25598191cee45",
+          "term": "fit",
+          "definition": "підходить за розміром",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786957150203-3e317d939a88a8",
+          "term": "suit",
+          "definition": "підходить за стилем",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786957150203-cf5d7559b5899",
+          "term": "bargain",
+          "definition": "вигідна покупка",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786957150203-47199164a10d18",
+          "term": "discount",
+          "definition": "знижка",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786957150203-5b364d7daef1b",
+          "term": "refund",
+          "definition": "повернення коштів",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786957150203-e7e5cab7d84a08",
+          "term": "on sale",
+          "definition": "у розпродажі",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786957150203-4b133932a7bb",
+          "term": "out of stock",
+          "definition": "немає в наявності",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786957150203-fd02d2d2bb52e8",
+          "term": "click and collect",
+          "definition": "самовивіз інтернет замовлення з магазину",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786957150203-19b8d4b72f1fd8",
+          "term": "fold",
+          "definition": "скласти",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786957150203-72e45dfcd10a6",
+          "term": "hang up",
+          "definition": "повісити",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786957150203-f24e8e9b0b80a",
+          "term": "put on",
+          "definition": "одягти",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786957150203-7ed67b6ea67ac",
+          "term": "take off",
+          "definition": "зняти",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786957150203-3c86f74ceb17d8",
+          "term": "peeling off",
+          "definition": "відлущуватися / здиратися / відклеюватися. (Про фарбу, шкіру після засмаги, наклейку або шар матеріалу.)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786957150203-953e39484f6d78",
+          "term": "temp fluctuation",
+          "definition": "коливання температури. (Різкі або регулярні зміни температури вгору і вниз.)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786957150203-7cd0a373070c68",
+          "term": "plunged",
+          "definition": "стрімко впав / занурився. (Рвучке падіння цін, температури, показників або занурення у воду.)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786957150203-4a655e55fbd31",
+          "term": "terrific",
+          "definition": "прекрасний / дивовижний / грандіозний. Позитивне оціночне слово (не плутати з terrible).",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786957150203-a858d726f21918",
+          "term": "awful",
+          "definition": "жахливий / дуже поганий. Вказує на щось вкрай неприємне.",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786957150203-09edca24657a4",
+          "term": "dreadful",
+          "definition": "страшенний / моторошний / жахливий. Сильніший синонім до awful, описує щось, що викликає страх, огиду або велике розчарування.",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786957150203-d54d3cb5e5572",
+          "term": "tired",
+          "definition": "exhausted (виснажений )",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786957150203-1cf0e6aa8c2b7",
+          "term": "hungry",
+          "definition": "starving(дуже голодний)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786957150203-c4b0e4f1dc20e",
+          "term": "dirty",
+          "definition": "filthy(брудний)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786957150203-5c700e03855948",
+          "term": "crowded",
+          "definition": "packed (переповнений людьми)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786957150203-10a49d07c8eb6",
+          "term": "angry",
+          "definition": "furious (лютий, розлючений )",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786957150203-d0bda85b6b76d8",
+          "term": "small",
+          "definition": "tiny(крихітний)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786957150203-5cb9808c05de38",
+          "term": "big",
+          "definition": "huge",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786957150203-78f49ab55c3c38",
+          "term": "hot",
+          "definition": "boiling",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786957150203-e1f10b39ffee98",
+          "term": "cold",
+          "definition": "freezing",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786957150203-e6a044f7be1b3",
+          "term": "tasty",
+          "definition": "delicious",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786957150203-37406b19dc67a",
+          "term": "underway",
+          "definition": "триваючий або те що розпочалося (вживакется коли якийсь процес, подія почалася )",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786957150203-c23f6d9ba1944",
+          "term": "suppress",
+          "definition": "придушувати(1- придушення повстання; 2 - придушення власних емоції)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786957150203-173314d47a06a",
+          "term": "brave(n)",
+          "definition": "воїн, хороший боець",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786957150203-96170261ad5ba8",
+          "term": "brave(adj)",
+          "definition": "хоробрий",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786957150203-6592fdebc385e",
+          "term": "unfold",
+          "definition": "розгортатися, розкриватися(подія яка поступово розкривается)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786957150203-df52bd295394a",
+          "term": "harsh",
+          "definition": "суворий, жортский (клімат; критика; грубий голос; суворі реалі життя)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786957150203-80ffe7f2bbdc28",
+          "term": "play out",
+          "definition": "розвивается якась ситуація",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786957150203-0c631f078c97d8",
+          "term": "severe",
+          "definition": "важкий, суворий(сильніше за hard. Вживается для опису: важких хвороб; високих штрафів;  серйозних  пошокоджень)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786957150203-83874c3b187fd",
+          "term": "next to",
+          "definition": "поручь щось що дуже близько",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786957150203-fb2438a1d83d58",
+          "term": "near/ close to",
+          "definition": "десь неподалік",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786957150203-715837c9b0ba8",
+          "term": "adjacent to",
+          "definition": "більш офіційне для слова поручь",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786957150203-47acf5e7a2931",
+          "term": "Stakes",
+          "definition": "ставки / рівень ризику",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786957150203-e1679717ea3518",
+          "term": "Rebels",
+          "definition": "повстанці / бунтівники(Люди, які зі зброєю або активним супротивом виступають проти діючої влади, уряду чи системи.)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786958140958-9138bdae51dcb8",
+          "term": "Uprising",
+          "definition": "повстання / бунт (Сам процес масового збройного виступу народу проти влади.)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786958140958-15f8080a45b64",
+          "term": "Unified",
+          "definition": "об'єднаний / згуртований(Опис того, що було роздроблене, але стало єдиним цілим (країна, флот, армія))",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786958140958-de663ea34e3308",
+          "term": "Invasion",
+          "definition": "вторгнення / напад(Силовий, зазвичай військовий, вхід армії однієї держави на територію іншої.)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786958140958-beedda7eaf67b",
+          "term": "Overthrown",
+          "definition": "скинутий / повалений (про владу) (Форма дієслова overthrow, яка вказує на те, що правителя, уряд чи режим силою позбавили влади.)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786958140958-0b2b006f94525",
+          "term": "Commissioned",
+          "definition": "уповноважений / найнятий на службу(Коли держава чи правитель офіційно дає доручення, замовлення або наймає когось (наприклад, приватних капітанів) виконувати військові завдання.)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786958140958-8c6d012add4e18",
+          "term": "Raid",
+          "definition": "набіг / раптовий напад",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786958140958-c69834a1c987f8",
+          "term": "Maritime",
+          "definition": "морський(Стосується всього, що пов'язано з морем, судноплавством, флотською справою чи торгівлею на воді.)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786958140958-a655b556c13ad8",
+          "term": "Vessels",
+          "definition": "судна / кораблі",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786958140958-8e87c6bbf6856",
+          "term": "The coast",
+          "definition": "узбережжя / берег(Лінія суші, яка безпосередньо межує з морем чи океаном.)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786958140958-9bd99579ba4728",
+          "term": "Cannons",
+          "definition": "гармати",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786958140958-e93c4b7c899da",
+          "term": "Commoner",
+          "definition": "простолюдин / людина з народу",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786958140958-11f8cebd05b4b",
+          "term": "Peasant",
+          "definition": "селянин / селянський",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786958140958-6bc18bf1f8b21",
+          "term": "Brothels",
+          "definition": "борделі / публічні будинки",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786958140958-39b3fee13524d8",
+          "term": "Meager",
+          "definition": "мізерний / скупи",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786958140958-87c1d48f1b2d",
+          "term": "Incomes",
+          "definition": "доходи / прибутки",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786958140958-dea0451f96fc5",
+          "term": "Offseason",
+          "definition": "міжсезоння(Період року, коли основна робота (наприклад, риболовля, сільське господарство чи туризм) тимчасово зупиняється через погоду або сезонні умови.)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786958140958-0d9e730f256868",
+          "term": "Outlaws",
+          "definition": "злочинці поза законом",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786958140958-be3287dac08e68",
+          "term": "Engaged (in)",
+          "definition": "залучений / той, що займається чимось",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786958140958-289e59a52fdd68",
+          "term": "Supplement",
+          "definition": "доповнювати / поповнювати",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786958140958-4dcda509cf9328",
+          "term": "Attracted the attention",
+          "definition": "привернула / привернув увагу",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786958140958-f5c6c1d9b517c",
+          "term": "Ongoing",
+          "definition": "триваючий / той, що досі відбувається",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786958140958-2c212acf01e5a8",
+          "term": "Pale",
+          "definition": "тьмяніти / бліднути (у порівнянні з чимось)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786958140958-213e0ef9f1c72",
+          "term": "Against",
+          "definition": "проти",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786958140958-58d84e02925358",
+          "term": "Consider",
+          "definition": "вважати / розцінювати(мати певну думку про щось або розцінювати предмет/ситуацію певним чином.)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786958140958-b2f26c917111f8",
+          "term": "Peacefully",
+          "definition": "мирно / без насильств",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786958140958-5df273a5b15a9",
+          "term": "Infamous",
+          "definition": "сумнозвісний",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786958140958-d68b27454fb848",
+          "term": "Enemies",
+          "definition": "вороги",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786958140958-2c7a7d605ee14",
+          "term": "Justified",
+          "definition": "виправданий",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786958140958-2a9e77e3fe37c8",
+          "term": "Otherwise",
+          "definition": "інакше / в іншому випадку",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786958140958-ae5ca5558068",
+          "term": "Concerns",
+          "definition": "занепокоєння / проблеми / турботи",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786958140958-7211391251356",
+          "term": "The needless suffering",
+          "definition": "непотрібні / даремні страждання",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786958140958-eec36a3973e6b8",
+          "term": "Accusing (someone of)",
+          "definition": "звинувачення (когось у чомусь)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786958140958-ce4fda1e91e2e",
+          "term": "Forced",
+          "definition": "змушений",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786958140958-fd6afd1ae892f8",
+          "term": "Infidelity",
+          "definition": "подружня зрада",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1786958140958-1deb66b76591c8",
+          "term": "Dismantle",
+          "definition": "демонтувати / розпускати(Буквально — розбирати механізм/конструкцію на деталі; переносне значення — повністю розпускати або ліквідовувати організацію, союз чи систему.)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        }
+      ]
+    },
+    {
+      "id": "1785402846953-6a5e78ca",
+      "title": "English - 13st lesson",
+      "description": "",
+      "updatedAt": "2026-08-17T08:26:20Z",
+      "cards": [
+        {
+          "id": "card-1785402975131-14f81965d33a78",
+          "term": "acid",
+          "definition": "кислота",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1785402975131-6595f2a7973bb",
+          "term": "soil",
+          "definition": "грунт або земля",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1785402975131-dae5ffe72d7478",
+          "term": "durable",
+          "definition": "міцний або добговічний",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1785402975131-a89f0e08a37c08",
+          "term": "contaminate",
+          "definition": "забрюднювати або отруювати",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1785402975131-f95c234ff87cf8",
+          "term": "break down",
+          "definition": "розкладатися або розкладатися на частини",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1785402975131-4ab13bd6040868",
+          "term": "forced",
+          "definition": "примусовий",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        }
+      ]
+    },
+    {
+      "id": "1785253459373-6a3d64a4",
+      "title": "English - 12st lesson",
+      "description": "",
+      "updatedAt": "2026-07-28T16:15:58Z",
+      "cards": [
+        {
+          "id": "card-1785254870175-6d80ebfbd5dc1",
+          "term": "greed",
+          "definition": "жадібний(сильне і егоїстичне бажання мати більше чогось: гроші чи влада)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1785254870175-8e2a2afedd8bc8",
+          "term": "appetite",
+          "definition": "апетит, мати потяг",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1785254870175-3cef1712914db8",
+          "term": "conquest",
+          "definition": "завоювання , підкорення(процес захопленя території)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1785254870175-2a0a54adaa9a8",
+          "term": "knack",
+          "definition": "хист, талант",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1785254870175-7421786e1fda68",
+          "term": "determined",
+          "definition": "рішучий, цілеспрямований",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1785254870175-211f14a1fd19f",
+          "term": "vanquish",
+          "definition": "перемагати , долати(повністю перемогти супротивника)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1785254870175-c3440f7ce8ff08",
+          "term": "rivals",
+          "definition": "суперники, конкуренти",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1785254870175-cf43327e662b7",
+          "term": "ancestral",
+          "definition": "родовий, предковий",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1785254870175-d02419bd77e588",
+          "term": "establishing",
+          "definition": "встановлення(процес започаткування чогось довгострокового)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1785254870175-3fac460d966398",
+          "term": "fierce",
+          "definition": "лютий , запеклий, шалений",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1785254870175-8d4a8f1a6f131",
+          "term": "undefeated",
+          "definition": "непереможений",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1785255360192-7fe8910d5ca8b8",
+          "term": "separatly",
+          "definition": "окремо, поодинці(окремо від інших людей)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1785255360192-d6cd4d2309bab",
+          "term": "recession",
+          "definition": "спад в економіці, рецесія",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1785255360192-e0be2ae0a7efb",
+          "term": "duty",
+          "definition": "обовязок, чергування, а також мито(податок)(юредичне зобовязання)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1785255360192-75524ffe80f79",
+          "term": "facilities",
+          "definition": "обєкти, приміщення, оснащення",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1785255360192-43c180b145dad8",
+          "term": "threaten",
+          "definition": "погрожувати, загрожувати",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1785255360192-da5d1dd966248",
+          "term": "alienating",
+          "definition": "такий що ізолює від інших",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1785255360192-ad3068740941b8",
+          "term": "alert(як прикметник)",
+          "definition": "бдительний або уважний",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1785255360192-c7a5f0f636e9c8",
+          "term": "turning up",
+          "definition": "поява, прихід кудись",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1785255360192-114a83b8b4bd5",
+          "term": "conspicuous",
+          "definition": "такий що привертає увагу",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1785255360192-ecbde53209d478",
+          "term": "freeloaders",
+          "definition": "дормаїди, нахлібники",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1785255360192-2949937e92c108",
+          "term": "on tap",
+          "definition": "завжди на поготові",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1785255360192-d672772f0247b8",
+          "term": "discouraging",
+          "definition": "демотивувати",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1785255360192-6e7390f935ef28",
+          "term": "cater for",
+          "definition": "задовольняти потреби",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        }
+      ]
+    },
+    {
+      "id": "1784241561242-fa38efb3",
+      "title": "English - 11st lesson",
+      "description": "",
+      "updatedAt": "2026-07-29T09:43:12Z",
+      "cards": [
+        {
+          "id": "card-1784241971896-4bf7d683146d2",
+          "term": "against",
+          "definition": "проти/всупереч",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784241971896-9b0e3be1d916d8",
+          "term": "deadly",
+          "definition": "смертоносний(який може спричинити смерть)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784241971896-8ce74d169680f8",
+          "term": "estimated",
+          "definition": "оціночний(грубо порахований)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784241971896-e57cb9ccd60e68",
+          "term": "precisely",
+          "definition": "точно",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784241971896-073b6b8da9b79",
+          "term": "ensure",
+          "definition": "забезпечити(гарантувати)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784241971896-4a9485ece77428",
+          "term": "eliminate",
+          "definition": "ліквідувати",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784241971896-0de85a97b03a08",
+          "term": "confidence",
+          "definition": "впевнений(довіра)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784241971896-db490cfc68dc5",
+          "term": "reduction",
+          "definition": "скорочений (зменшення)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784241971896-1a4a7e98e88ea8",
+          "term": "instance",
+          "definition": "випадок (приклад)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784241971896-fd393e81acc5",
+          "term": "eradiate",
+          "definition": "викорінити",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784241971896-ad260b491878e",
+          "term": "menace",
+          "definition": "загроза",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784241971896-eea8dcf4552ee",
+          "term": "suppression",
+          "definition": "придушення (стримування)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784242440221-9750d56af764b",
+          "term": "pollen",
+          "definition": "пилок, утвор на квітах",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784242440221-d5500262d6541",
+          "term": "extination",
+          "definition": "вимирання",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784242440221-b518fe4fc82e4",
+          "term": "puddle",
+          "definition": "калюжа",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784242440221-12f6b533e36db8",
+          "term": "delicate",
+          "definition": "витончений",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784242440221-355035b267583",
+          "term": "deter",
+          "definition": "відлякувати",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784242440221-9f8d21755d466",
+          "term": "ashes",
+          "definition": "попіл зола",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784242440221-4fcc45fc19195",
+          "term": "pests",
+          "definition": "шкідники",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784242440221-557e3c21dec388",
+          "term": "ponds",
+          "definition": "ставки",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784242440221-2248970acdbe08",
+          "term": "buzzing",
+          "definition": "дзижчаний",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784242440221-fd4f959a2df8e8",
+          "term": "lay",
+          "definition": "відкладати",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784242440221-660805c9d01e3",
+          "term": "mammal",
+          "definition": "ссавець",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784242440221-5a53e65faddde",
+          "term": "flea",
+          "definition": "блоха",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784242440221-e15348b6a8034",
+          "term": "ostrich",
+          "definition": "страус",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784242440221-9bc206e110b778",
+          "term": "Powder",
+          "definition": "тверда речовина, подрібнена на дуже дрібні частинки.",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784242440221-936f8039018188",
+          "term": "Amount",
+          "definition": "кількість, обсяг, сума.",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784242440221-68cdc982120a58",
+          "term": "Existing",
+          "definition": "існуючий, діючий, наявний.",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        }
+      ]
+    },
+    {
+      "id": "1784240246339-55044b20",
+      "title": "English - 10st lesson",
+      "description": "",
+      "updatedAt": "2026-07-16T22:39:18Z",
+      "cards": [
+        {
+          "id": "card-1784240827942-817fcdc91cc9b8",
+          "term": "certain",
+          "definition": "переконаний",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784240827942-771410a1a37f5",
+          "term": "gathering",
+          "definition": "зібрання, зустріч, збір (інформації, людей чи речей).",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784240827942-2b2578d7922f3",
+          "term": "celery",
+          "definition": "Сельдерей",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784240827942-65eede05e02d6",
+          "term": "caulifower",
+          "definition": "цветна капуста",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784240827942-a9d9ff3a7205e8",
+          "term": "cabbage",
+          "definition": "капуста",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784240827942-40ad080e7ab7a8",
+          "term": "beetroot",
+          "definition": "буряк",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784240827942-7a9c6cae630f18",
+          "term": "green beans",
+          "definition": "зелені боби",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784240827942-3ed18adf8524f",
+          "term": "garlic",
+          "definition": "часник",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784240827942-f0934cb84d43e",
+          "term": "lettuce",
+          "definition": "салат-латук",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784240827942-6122be9bea4ef8",
+          "term": "pork",
+          "definition": "свинина",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784240827942-d42edf60b4ce48",
+          "term": "veal",
+          "definition": "телятина",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784240827942-01511377b79388",
+          "term": "poultry",
+          "definition": "курятина",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784240827942-7db202e8fb4a98",
+          "term": "basil",
+          "definition": "базилик",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784240827942-c8212e1a010e88",
+          "term": "parsley",
+          "definition": "Петрушка",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784240827942-d6ef83d0ba255",
+          "term": "rosemary",
+          "definition": "Розмарин лекарственный",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784240827942-14a63c23ee5388",
+          "term": "dill",
+          "definition": "Укро́п",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784240827942-a555e2ae95f2e",
+          "term": "revised",
+          "definition": ": переглянутий, змінений, виправлений (наприклад, текст, план чи версія після перевірки).",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784240827942-80bf5009463e08",
+          "term": "barely",
+          "definition": "ледве, ледь-ледь, тільки-но, майже нічого. Означає, що щось ледь встигло відбутися або є мінімально можливим.",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784240827942-89a90d5ecc629",
+          "term": "definitely",
+          "definition": "обов'язково, безумовно, точно, безперечно. Виражає 100% впевненість у чомусь.",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        }
+      ]
+    },
+    {
+      "id": "1784239915341-faa5cb27",
+      "title": "English - 9-st lesson",
+      "description": "",
+      "updatedAt": "2026-07-16T22:17:22Z",
+      "cards": [
+        {
+          "id": "card-1784240258335-4e3dc1699353e",
+          "term": "bill",
+          "definition": "рахунок (UK)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784240258335-0d0772fa50ec88",
+          "term": "check",
+          "definition": "раухнок (US)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784240258335-e451674bedbe88",
+          "term": "service charge",
+          "definition": "обовзязкова сума  за обслоговування",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784240258335-559babee09d028",
+          "term": "tip",
+          "definition": "чайові",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784240258335-f646f6d4270468",
+          "term": "starter",
+          "definition": "назва невиликої страви перед основною (UK)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784240258335-98526fc835e248",
+          "term": "appetizer",
+          "definition": "назва невиликої страви перед основною (US)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784240258335-2760664b782b",
+          "term": "eat in",
+          "definition": "їсти дома",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784240258335-ee54c89156d2f",
+          "term": "eat out",
+          "definition": "йти кудись (в ресторан)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784240258335-e9f282ab07a8e",
+          "term": "i will get this",
+          "definition": "я заплачу за це",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784240258335-66444543a8af78",
+          "term": "it is on me",
+          "definition": "я пригощаю",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784240258335-e674ea5c6fd268",
+          "term": "Cheers",
+          "definition": "будьмо",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784240258335-22b48757b3a988",
+          "term": "here is to",
+          "definition": "випиємо за когось",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        }
+      ]
+    },
+    {
+      "id": "1784239647916-40a7a96e",
+      "title": "English  - 8-st lesson",
+      "description": "",
+      "updatedAt": "2026-07-16T22:11:53Z",
+      "cards": [
+        {
+          "id": "card-1784239928838-96cb7daf389998",
+          "term": "under the water",
+          "definition": "почувати себе недобре (легко застудитися без серйозного діагназу)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784239928838-7778a764d44598",
+          "term": "as fit as a fiddle",
+          "definition": "здоровий як бик",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784239928838-efcc3a639c9fd",
+          "term": "out of shape",
+          "definition": "мати погану фіз підготовку",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784239928838-a79658b2559008",
+          "term": "death warmed up",
+          "definition": "мати жахливий вигляд",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1784239928838-e7d3a11f9dcfd8",
+          "term": "a clean bill of health",
+          "definition": "медичний висновок від лікаря після огляду , що ти здоровий",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        }
+      ]
+    },
+    {
+      "id": "1781727516687-903d1b75",
+      "title": "English - 7-st lesson",
+      "description": "",
+      "updatedAt": "2026-06-17T20:36:51Z",
+      "cards": [
+        {
+          "id": "card-1781727864994-8bfd9e9e48a78",
+          "term": "seemignly",
+          "definition": "на перший погляд",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781727864995-451bcf2e49855",
+          "term": "preferred",
+          "definition": "бажанний, якому віддають перевагу",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781727864995-0af75f6f990028",
+          "term": "conducted",
+          "definition": "проведений, виконаний (якесь дослідження)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781727864995-5dd5795c207d6",
+          "term": "provide",
+          "definition": "надавати доступ або просто надавати",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781727864995-876e441409e6b",
+          "term": "apperance",
+          "definition": "зовнішний вигляд, поява",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781727864995-5a1f6708ec4de",
+          "term": "upset",
+          "definition": "засмучений",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781727864996-cedd79cc06933",
+          "term": "beholder",
+          "definition": "той, хто дивиться (смотрящий)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781727864996-f0c1b81fffa07",
+          "term": "entertainment",
+          "definition": "розваги, розважальний контент",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781727864996-3d8f3b55f210e8",
+          "term": "assume",
+          "definition": "припускати, вважати (робити висновок на тому що здається логічним)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781727864996-3b60fa1ed28c9",
+          "term": "inquire",
+          "definition": "запитувати, цікавитися",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781727864996-4aedecba268838",
+          "term": "engage",
+          "definition": "залучати, втягувати, займатися чимось",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781728370499-1efd2d84ad8be",
+          "term": "be up to",
+          "definition": "бути залученим, чимось займатися",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781728370499-365bf087a03ba8",
+          "term": "comment on",
+          "definition": "висловлювати думку про щось",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781728370499-d75f675a9d705",
+          "term": "interact  with",
+          "definition": "обмінюватися ідеями з кимось",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781728370499-edb38cb669dea8",
+          "term": "ask about",
+          "definition": "довідуватися , запитувати",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781728370499-e64f713c8dee48",
+          "term": "pull up",
+          "definition": "піднімати щось у гору ( предмет)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781728370499-6601d80a25a29",
+          "term": "participate in",
+          "definition": "брати участь у чомусь",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781728370499-2eb440c6dd31e",
+          "term": "take for grande",
+          "definition": "припускати щось без сумніву",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781728370499-cebd2678d50588",
+          "term": "look at",
+          "definition": "ретельно розглядати",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781728370499-43fda8eae07228",
+          "term": "carry out",
+          "definition": "доводити до кінця, виконувати задачу",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781728370499-c36f051efca4",
+          "term": "food poisoning",
+          "definition": "харчове отруєня",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781728370499-954bad1b173e9",
+          "term": "fever",
+          "definition": "підвищена температура",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781728370499-62e9f6a8d06378",
+          "term": "rash",
+          "definition": "висип",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781728370499-3e5d8e39858758",
+          "term": "sore throat",
+          "definition": "біль у горлі",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781728370499-118aae5c707338",
+          "term": "flu",
+          "definition": "грип",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781728370499-7a3836b428732",
+          "term": "dripping",
+          "definition": "тече, як з крана (тече з носа)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781728370499-1b01129e0d43f",
+          "term": "swallow",
+          "definition": "ковтати слюну",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781728370499-04245df90063c8",
+          "term": "aches",
+          "definition": "ломить",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781728370499-98d1cfa81bb738",
+          "term": "itchy",
+          "definition": "свербить",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781728370499-71f2c4a9bee558",
+          "term": "throwing",
+          "definition": "блювати",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781728370499-2b3e01632fdcd",
+          "term": "weak",
+          "definition": "слабкість",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781728370499-eb08056278f31",
+          "term": "swollen",
+          "definition": "набряк",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781728370499-cfda9f9d4dcaa",
+          "term": "injuries",
+          "definition": "травми",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781728370499-14fef17c9012b8",
+          "term": "bruise",
+          "definition": "соняк",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781728370499-10ee086bc2f0d8",
+          "term": "twisted",
+          "definition": "підвернути",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781728370499-21dc8c330b378",
+          "term": "wound",
+          "definition": "рана",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781728411989-e499874a3f453",
+          "term": "treatments",
+          "definition": "лікування",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781728461971-a06f7a7baef148",
+          "term": "sling",
+          "definition": "перевязка",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        }
+      ]
+    },
+    {
+      "id": "1781470940614-1fe3377d",
+      "title": "English - 6-st lesson",
+      "description": "",
+      "updatedAt": "2026-06-14T21:12:40Z",
+      "cards": [
+        {
+          "id": "card-1781471557791-43d5a379763bc",
+          "term": "access",
+          "definition": "доступ, право чимось користуватися",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781471557792-04a4e82c2abf7",
+          "term": "Insignificant",
+          "definition": "незначний,неважливий",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781471557792-0140ceebcf892",
+          "term": "nosy",
+          "definition": "допитливий, той хто пхає свого носа до чужих справ Фраза: Nosy neighbor",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781471557792-e1e1f60a709f28",
+          "term": "surveillance",
+          "definition": "стежка, нагляд( surveillance cameras - камера відеоспотереження)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781471557792-55e82508bebf9",
+          "term": "urban",
+          "definition": "міський",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781471557792-713744ca886748",
+          "term": "mean (як прикметник)",
+          "definition": "злий,підлий, неприємний,жадібний",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781471557792-93e745b18e9cd8",
+          "term": "observe",
+          "definition": "спостерігати, помічати (робити це уважно, часто з наук метою)  Також може бути як - дотримуватися правил чи законів)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781471557792-86c0e689a11a18",
+          "term": "participate",
+          "definition": "брати участь",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781471557792-2e24ed5a2a9918",
+          "term": "valued (як прикметник)",
+          "definition": "цінний, шанований, той якого цінують",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781471557792-684208ba65b518",
+          "term": "aspect",
+          "definition": "аспект, сторона , грань",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781471557792-0db58e5d2a388",
+          "term": "consequence",
+          "definition": "наслідок, результат(більш офіційно ->  натяк на серйозні проблеми)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781471557792-495253ccac4e5",
+          "term": "juxtaposition",
+          "definition": "зіставлення, розміщення поруч",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781471557792-ab6ae1bb1dd2d",
+          "term": "downside",
+          "definition": "недолік, мінус",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781471557792-4a45cffd83e048",
+          "term": "labeled",
+          "definition": "позначений, макрований",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781471557792-c2821330d9ece8",
+          "term": "outweigh",
+          "definition": "переважувати, бути значнішим",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        }
+      ]
+    },
+    {
+      "id": "1781351009105-5d037959",
+      "title": "English - 5-st lesson",
+      "description": "",
+      "updatedAt": "2026-06-13T13:42:55Z",
+      "cards": [
+        {
+          "id": "card-1781357681886-3d58541108b318",
+          "term": "nomad",
+          "definition": "кочівники",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781357681891-4ad57dd7cf8bc",
+          "term": "reasonable",
+          "definition": "розсудлива, адекватний(ціна)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781357681891-052fbf45e626d8",
+          "term": "to obtain",
+          "definition": "отримати, здобути(більш поважний синонім до слова get)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781357681891-e647ab4d6e4998",
+          "term": "appointment",
+          "definition": "призначення зустрічі(діловий запис до лікаря або юриста)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781357681891-85a69186a0dc48",
+          "term": "opposite",
+          "definition": "протилежний, навпаки",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781357681891-093a2e600585c8",
+          "term": "parental leave",
+          "definition": "деркретна відпустка",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781357681891-c1f45c1b358638",
+          "term": "insulted",
+          "definition": "ображений(коли твою гідність зачипили грубими словами)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781357681891-0b6512b82fbd08",
+          "term": "laid off",
+          "definition": "звільнений через скорочення штату",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781357681891-3c59f738c23178",
+          "term": "sacked",
+          "definition": "звільнений з тріском",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781358164408-ce246e9fd7b998",
+          "term": "temporary employee",
+          "definition": "тимчасовий працівник",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781358164409-183c42da97d578",
+          "term": "sick leave",
+          "definition": "лікарняний фраза: to take a sick leave",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781358164410-7b48830dfd1608",
+          "term": "retired",
+          "definition": "той, хто пішов на пенсію",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781358164410-eb90d52463adb",
+          "term": "proud",
+          "definition": "гордий, той хто відчуває гордість",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781358164410-e66ec71a0a6f6",
+          "term": "twins",
+          "definition": "близнюки або двійняшки",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781358164410-49ab15d27c1ab8",
+          "term": "occupation",
+          "definition": "рід зайнять, професія",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781358164410-f36052f784088",
+          "term": "property",
+          "definition": "властність, майно",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781358164410-9e8662d307d5",
+          "term": "predictions",
+          "definition": "прогнози, передбачення",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781358164410-2ada465df1935",
+          "term": "consider",
+          "definition": "обміркування,брати до уваги",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781358164410-f48c78c479f2e",
+          "term": "vocation",
+          "definition": "покликання, життєва місія",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781358164410-7a9f40d91b6438",
+          "term": "work wonders",
+          "definition": "творити дива",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781358164410-1dc18b5b2f78a",
+          "term": "working towards",
+          "definition": "напалеглево йти",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781358164410-2c7fa08948f4c",
+          "term": "work around",
+          "definition": "розрулити проблему",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781358164410-3aa84f361b183",
+          "term": "work your way up",
+          "definition": "пробивати себе в гору по карєрній драбині",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781358164410-c2b356f312e45",
+          "term": "work up to it",
+          "definition": "поступово готувати себе до важкого",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781358164410-6289ba54907d78",
+          "term": "work cut out",
+          "definition": "мати купу важкої роботи по переду",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781358164410-1c0f5025923868",
+          "term": "get down to work",
+          "definition": "сісти з повним фокусом",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781358164410-85d09c79c2f3",
+          "term": "work out",
+          "definition": "знайти рішення",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        }
+      ]
+    },
+    {
+      "id": "1781017108502-19e219cc",
+      "title": "English - 4-st lesson",
+      "description": "",
+      "updatedAt": "2026-06-13T11:37:25Z",
+      "cards": [
+        {
+          "id": "card-1781017688781-e1e8d9d90205d8",
+          "term": "weakness",
+          "definition": "слабкість(може означати як фізичну так і характерну рису)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781017688781-a4793688813f4",
+          "term": "composed",
+          "definition": "стриманий(людина, яка в момент хаосу залишается спокійною)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781017688781-d041bfa88be86",
+          "term": "confidence",
+          "definition": "впевненість(внутрішнє відчуття, що ти впораешся)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781017688781-493adcc053e21",
+          "term": "capable of",
+          "definition": "здатний на щось(людига має достатньо розуму для виконання завдання))",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781017688781-14e54d8f36dde8",
+          "term": "commitment",
+          "definition": "серйозне ставлення до справи(доведеш справу до кінця)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781017688781-2addd68ee6938",
+          "term": "desire",
+          "definition": "бажання( часто емоційна чи завітна мрія)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781017688781-df7e7c14bd0e9",
+          "term": "align",
+          "definition": "узгодити свої цілі з цілями команди чи компанії",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781017688781-ebffce5d34755",
+          "term": "mention",
+          "definition": "згадати про щось мимохід(коротко про щось в розмові) Фраза: Dont mention it -> не згадуй про це",
+          "dueAt": "2026-06-14T11:21:27.159932Z",
+          "lastReviewedAt": "2026-06-14T11:20:27.159920Z",
+          "intervalMs": 60000,
+          "reviewCount": 2,
+          "stats": {
+            "again": 1,
+            "hard": 0,
+            "good": 1,
+            "easy": 0
+          },
+          "history": [
+            {
+              "grade": "good",
+              "at": "2026-06-09T21:48:12.201Z",
+              "nextDueAt": "2026-06-09T21:58:12.201Z"
+            },
+            {
+              "grade": "again",
+              "at": "2026-06-14T11:20:27.159920Z",
+              "nextDueAt": "2026-06-14T11:21:27.159932Z"
+            }
+          ]
+        },
+        {
+          "id": "card-1781017688781-07535041753ed8",
+          "term": "necessity",
+          "definition": "крайня потреба(щось життєво необхідне)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781017688781-0cb8a6bf219328",
+          "term": "maturity",
+          "definition": "зрілість(здатність приймати дорослі рішення)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781017688781-e431499b6a607",
+          "term": "curiosity",
+          "definition": "допитливість(сильне бажання щось дізнатися)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781017688781-39719ea2fe146",
+          "term": "engagement",
+          "definition": "залученість (може бути як інтерес до роботи, або взаємодія користувачів із контентом в ІТ)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        }
+      ]
+    },
+    {
+      "id": "1781016666639-10619508",
+      "title": "English - 3-st lesson",
+      "description": "",
+      "updatedAt": "2026-06-09T14:58:02Z",
+      "cards": [
+        {
+          "id": "card-1781017082476-d8216f5740d92",
+          "term": "yelling",
+          "definition": "кричати ( сильно на когось кричати )",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781017082476-0dff6f9c8000e",
+          "term": "scream",
+          "definition": "кричати(дуже емоційно кричати)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781017082476-82e9607a3d0af8",
+          "term": "shout",
+          "definition": "підвищити голос(так щоб почулу тебе на відстані)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781017082476-a63cffb4aafbc8",
+          "term": "to duck",
+          "definition": "нагнутися(ухильнутися від чогось) Фраза: Duck your head!",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781017082476-e3eb4fedcd323",
+          "term": "demand",
+          "definition": "вимога/ вставити ультиматум(вимогливий  суворий босс чи важка робота)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781017082476-1d1adff161da88",
+          "term": "vital",
+          "definition": "критично необхідний(щось без чого не можливе існування) Фраза: Water is vital for survival!",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781017082476-407f5008b16f38",
+          "term": "desperate",
+          "definition": "безнадійний(той хто готовий на все аби виправитися)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        }
+      ]
+    },
+    {
+      "id": "1781012323679-b844ffde",
+      "title": "English - 2-st lesson",
+      "description": "",
+      "updatedAt": "2026-06-09T15:28:06Z",
+      "cards": [
+        {
+          "id": "card-1781012511955-e1212121ec6358",
+          "term": "particular",
+          "definition": "конкретний",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781016342493-f5410354f089d",
+          "term": "sign",
+          "definition": "знак",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781016342493-8275acd4db1018",
+          "term": "according to",
+          "definition": "відповідно до/ згідно з",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781016342493-d647d74ba848b8",
+          "term": "recalled to",
+          "definition": "згадати щось з голови. також может бути як відкликання якось забракованої партії товару",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781016342493-c4d47d910998f8",
+          "term": "pick",
+          "definition": "підбрати/ забрати щось швидко",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781016342493-d5b2b63cc62b2",
+          "term": "pupils",
+          "definition": "учні(молодші/ середній класс). також може означати зіницю ока",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781016342493-d85b745900c838",
+          "term": "Heaven",
+          "definition": "небеса( релегійне поняття)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781016342493-238b1cfd60231",
+          "term": "Hesitant",
+          "definition": "нерішучий(боїться зробити помилку). Походить від слова hesitate(вагатися)",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781016342493-55869406ce7668",
+          "term": "noticed",
+          "definition": "помітити/звернути увагу саме органом чуття",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781016342494-b1ef92e9410d48",
+          "term": "competitive",
+          "definition": "конкурентний (жорстке середовище, де потрібно боротися за першість(competitive market))",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781016489018-61060bba6fcef",
+          "term": "sibling",
+          "definition": "a brother or sister",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781016489019-e403e9a4bdb59",
+          "term": "inospitable",
+          "definition": "непривітний",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781016489019-62e1cab252d088",
+          "term": "exposed",
+          "definition": "незахищений",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781016489019-52cb31240eea6",
+          "term": "harmful",
+          "definition": "шкідливий",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        },
+        {
+          "id": "card-1781016489019-4721cc78ef44b8",
+          "term": "endurance",
+          "definition": "здатність триматися довго",
+          "dueAt": "",
+          "lastReviewedAt": "",
+          "intervalMs": 0,
+          "reviewCount": 0,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 0
+          },
+          "history": []
+        }
+      ]
+    },
+    {
+      "id": "1781000422213-8c4750b1",
+      "title": "English - 1-st lesson",
+      "description": "",
+      "updatedAt": "2026-06-10T15:41:34Z",
+      "cards": [
+        {
+          "id": "card-1781002649453-47d6c22703809",
+          "term": "myth",
+          "definition": "stories from ancient times",
+          "dueAt": "2026-06-13T11:30:06.732Z",
+          "lastReviewedAt": "2026-06-09T11:30:06.732Z",
+          "intervalMs": 345600000,
+          "reviewCount": 1,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 1
+          },
+          "history": [
+            {
+              "grade": "easy",
+              "at": "2026-06-09T11:30:06.732Z",
+              "nextDueAt": "2026-06-13T11:30:06.732Z"
+            }
+          ]
+        },
+        {
+          "id": "card-1781002649453-624114b37510b8",
+          "term": "pattern",
+          "definition": "a regular way in which smth",
+          "dueAt": "2026-06-13T11:30:15.661Z",
+          "lastReviewedAt": "2026-06-09T11:30:15.661Z",
+          "intervalMs": 345600000,
+          "reviewCount": 1,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 1
+          },
+          "history": [
+            {
+              "grade": "easy",
+              "at": "2026-06-09T11:30:15.661Z",
+              "nextDueAt": "2026-06-13T11:30:15.661Z"
+            }
+          ]
+        },
+        {
+          "id": "card-1781002649453-f110038afae84",
+          "term": "quest",
+          "definition": "long search",
+          "dueAt": "2026-06-13T11:30:22.978Z",
+          "lastReviewedAt": "2026-06-09T11:30:22.978Z",
+          "intervalMs": 345600000,
+          "reviewCount": 1,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 1
+          },
+          "history": [
+            {
+              "grade": "easy",
+              "at": "2026-06-09T11:30:22.978Z",
+              "nextDueAt": "2026-06-13T11:30:22.978Z"
+            }
+          ]
+        },
+        {
+          "id": "card-1781002649453-127eedf303c4e",
+          "term": "threshold",
+          "definition": "doorway (поріг)",
+          "dueAt": "2026-06-13T11:30:27.952Z",
+          "lastReviewedAt": "2026-06-09T11:30:27.952Z",
+          "intervalMs": 345600000,
+          "reviewCount": 1,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 1
+          },
+          "history": [
+            {
+              "grade": "easy",
+              "at": "2026-06-09T11:30:27.952Z",
+              "nextDueAt": "2026-06-13T11:30:27.952Z"
+            }
+          ]
+        },
+        {
+          "id": "card-1781002649453-5855ce64ae11e",
+          "term": "unfamiliar",
+          "definition": "not known to me (незнайомий )",
+          "dueAt": "2026-06-18T11:19:38.567718Z",
+          "lastReviewedAt": "2026-06-14T11:19:38.567696Z",
+          "intervalMs": 345600000,
+          "reviewCount": 2,
+          "stats": {
+            "again": 0,
+            "hard": 1,
+            "good": 0,
+            "easy": 1
+          },
+          "history": [
+            {
+              "grade": "hard",
+              "at": "2026-06-09T11:31:07.976Z",
+              "nextDueAt": "2026-06-09T11:37:07.976Z"
+            },
+            {
+              "grade": "easy",
+              "at": "2026-06-14T11:19:38.567696Z",
+              "nextDueAt": "2026-06-18T11:19:38.567718Z"
+            }
+          ]
+        },
+        {
+          "id": "card-1781002649453-4a7c942711d7e",
+          "term": "variants",
+          "definition": "different versions",
+          "dueAt": "2026-06-13T11:31:15.381Z",
+          "lastReviewedAt": "2026-06-09T11:31:15.381Z",
+          "intervalMs": 345600000,
+          "reviewCount": 1,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 1
+          },
+          "history": [
+            {
+              "grade": "easy",
+              "at": "2026-06-09T11:31:15.381Z",
+              "nextDueAt": "2026-06-13T11:31:15.381Z"
+            }
+          ]
+        },
+        {
+          "id": "card-1781002649453-28a6f2f180e6c",
+          "term": "flee",
+          "definition": "escape from (тікати)",
+          "dueAt": "2026-06-13T11:31:22.627Z",
+          "lastReviewedAt": "2026-06-09T11:31:22.627Z",
+          "intervalMs": 345600000,
+          "reviewCount": 1,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 1
+          },
+          "history": [
+            {
+              "grade": "easy",
+              "at": "2026-06-09T11:31:22.627Z",
+              "nextDueAt": "2026-06-13T11:31:22.627Z"
+            }
+          ]
+        },
+        {
+          "id": "card-1781002761326-575526efa4524",
+          "term": "seek",
+          "definition": "look for (шукати щось важливе: скарби, знання )",
+          "dueAt": "2026-06-18T11:20:55.197583Z",
+          "lastReviewedAt": "2026-06-14T11:20:55.197541Z",
+          "intervalMs": 345600000,
+          "reviewCount": 3,
+          "stats": {
+            "again": 1,
+            "hard": 1,
+            "good": 0,
+            "easy": 1
+          },
+          "history": [
+            {
+              "grade": "again",
+              "at": "2026-06-09T11:31:32.545Z",
+              "nextDueAt": "2026-06-09T11:32:32.545Z"
+            },
+            {
+              "grade": "hard",
+              "at": "2026-06-10T15:40:16.123Z",
+              "nextDueAt": "2026-06-10T15:46:16.123Z"
+            },
+            {
+              "grade": "easy",
+              "at": "2026-06-14T11:20:55.197541Z",
+              "nextDueAt": "2026-06-18T11:20:55.197583Z"
+            }
+          ]
+        },
+        {
+          "id": "card-1781003416513-1275212d46bea",
+          "term": "slay",
+          "definition": "kill",
+          "dueAt": "2026-06-13T11:31:34.034Z",
+          "lastReviewedAt": "2026-06-09T11:31:34.034Z",
+          "intervalMs": 345600000,
+          "reviewCount": 1,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 1
+          },
+          "history": [
+            {
+              "grade": "easy",
+              "at": "2026-06-09T11:31:34.034Z",
+              "nextDueAt": "2026-06-13T11:31:34.034Z"
+            }
+          ]
+        },
+        {
+          "id": "card-1781003416513-b7d07142768fb8",
+          "term": "trials",
+          "definition": "difficult experiences (впробування множинна )",
+          "dueAt": "2026-06-14T11:27:19.218615Z",
+          "lastReviewedAt": "2026-06-14T11:26:19.218475Z",
+          "intervalMs": 60000,
+          "reviewCount": 3,
+          "stats": {
+            "again": 1,
+            "hard": 1,
+            "good": 1,
+            "easy": 0
+          },
+          "history": [
+            {
+              "grade": "good",
+              "at": "2026-06-09T11:31:46.378Z",
+              "nextDueAt": "2026-06-09T11:41:46.378Z"
+            },
+            {
+              "grade": "hard",
+              "at": "2026-06-10T15:40:22.247Z",
+              "nextDueAt": "2026-06-10T15:46:22.247Z"
+            },
+            {
+              "grade": "again",
+              "at": "2026-06-14T11:26:19.218475Z",
+              "nextDueAt": "2026-06-14T11:27:19.218615Z"
+            }
+          ]
+        },
+        {
+          "id": "card-1781003416513-3de1b1ae446708",
+          "term": "tangled",
+          "definition": "заплутані так, що важко розплутати",
+          "dueAt": "2026-06-14T11:32:28.244596Z",
+          "lastReviewedAt": "2026-06-14T11:26:28.244578Z",
+          "intervalMs": 360000,
+          "reviewCount": 3,
+          "stats": {
+            "again": 1,
+            "hard": 2,
+            "good": 0,
+            "easy": 0
+          },
+          "history": [
+            {
+              "grade": "again",
+              "at": "2026-06-09T11:31:54.728Z",
+              "nextDueAt": "2026-06-09T11:32:54.728Z"
+            },
+            {
+              "grade": "hard",
+              "at": "2026-06-10T15:40:29.892Z",
+              "nextDueAt": "2026-06-10T15:46:29.892Z"
+            },
+            {
+              "grade": "hard",
+              "at": "2026-06-14T11:26:28.244578Z",
+              "nextDueAt": "2026-06-14T11:32:28.244596Z"
+            }
+          ]
+        },
+        {
+          "id": "card-1781003416514-25485ffedee418",
+          "term": "straighten out",
+          "definition": "вирішувати, ставити на свої місця",
+          "dueAt": "2026-06-14T11:27:43.671128Z",
+          "lastReviewedAt": "2026-06-14T11:26:43.671112Z",
+          "intervalMs": 60000,
+          "reviewCount": 3,
+          "stats": {
+            "again": 2,
+            "hard": 1,
+            "good": 0,
+            "easy": 0
+          },
+          "history": [
+            {
+              "grade": "again",
+              "at": "2026-06-09T11:32:05.880Z",
+              "nextDueAt": "2026-06-09T11:33:05.880Z"
+            },
+            {
+              "grade": "hard",
+              "at": "2026-06-10T15:40:57.102Z",
+              "nextDueAt": "2026-06-10T15:46:57.102Z"
+            },
+            {
+              "grade": "again",
+              "at": "2026-06-14T11:26:43.671112Z",
+              "nextDueAt": "2026-06-14T11:27:43.671128Z"
+            }
+          ]
+        },
+        {
+          "id": "card-1781003416514-526c57f8bbb2",
+          "term": "try-outs",
+          "definition": "вибіркові випробування у спорті",
+          "dueAt": "2026-06-13T11:32:13.832Z",
+          "lastReviewedAt": "2026-06-09T11:32:13.832Z",
+          "intervalMs": 345600000,
+          "reviewCount": 1,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 1
+          },
+          "history": [
+            {
+              "grade": "easy",
+              "at": "2026-06-09T11:32:13.832Z",
+              "nextDueAt": "2026-06-13T11:32:13.832Z"
+            }
+          ]
+        },
+        {
+          "id": "card-1781003416514-2e1abe065aad2",
+          "term": "auditions",
+          "definition": "прослуховавування в театрі",
+          "dueAt": "2026-06-13T11:32:14.816Z",
+          "lastReviewedAt": "2026-06-09T11:32:14.816Z",
+          "intervalMs": 345600000,
+          "reviewCount": 1,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 1
+          },
+          "history": [
+            {
+              "grade": "easy",
+              "at": "2026-06-09T11:32:14.816Z",
+              "nextDueAt": "2026-06-13T11:32:14.816Z"
+            }
+          ]
+        },
+        {
+          "id": "card-1781003416514-c70c9460b8e97",
+          "term": "conquer",
+          "definition": "підкорити або подалати",
+          "dueAt": "2026-06-14T11:27:35.054548Z",
+          "lastReviewedAt": "2026-06-14T11:26:35.054531Z",
+          "intervalMs": 60000,
+          "reviewCount": 3,
+          "stats": {
+            "again": 2,
+            "hard": 1,
+            "good": 0,
+            "easy": 0
+          },
+          "history": [
+            {
+              "grade": "again",
+              "at": "2026-06-09T11:32:31.011Z",
+              "nextDueAt": "2026-06-09T11:33:31.011Z"
+            },
+            {
+              "grade": "hard",
+              "at": "2026-06-10T15:40:54.712Z",
+              "nextDueAt": "2026-06-10T15:46:54.712Z"
+            },
+            {
+              "grade": "again",
+              "at": "2026-06-14T11:26:35.054531Z",
+              "nextDueAt": "2026-06-14T11:27:35.054548Z"
+            }
+          ]
+        },
+        {
+          "id": "card-1781003416514-9554742c53ecf8",
+          "term": "dozens",
+          "definition": "десятки, дуже багато",
+          "dueAt": "2026-06-13T11:32:40.567Z",
+          "lastReviewedAt": "2026-06-09T11:32:40.567Z",
+          "intervalMs": 345600000,
+          "reviewCount": 1,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 1
+          },
+          "history": [
+            {
+              "grade": "easy",
+              "at": "2026-06-09T11:32:40.567Z",
+              "nextDueAt": "2026-06-13T11:32:40.567Z"
+            }
+          ]
+        },
+        {
+          "id": "card-1781003416514-df8ea834ed7c9",
+          "term": "riddle",
+          "definition": "загадка (якась словесна загадка)",
+          "dueAt": "2026-06-13T11:32:52.978Z",
+          "lastReviewedAt": "2026-06-09T11:32:52.978Z",
+          "intervalMs": 345600000,
+          "reviewCount": 1,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 1
+          },
+          "history": [
+            {
+              "grade": "easy",
+              "at": "2026-06-09T11:32:52.978Z",
+              "nextDueAt": "2026-06-13T11:32:52.978Z"
+            }
+          ]
+        },
+        {
+          "id": "card-1781003416514-349a500c04b8d",
+          "term": "claim",
+          "definition": "забрати своє",
+          "dueAt": "2026-06-18T11:20:00.726950Z",
+          "lastReviewedAt": "2026-06-14T11:20:00.726932Z",
+          "intervalMs": 345600000,
+          "reviewCount": 2,
+          "stats": {
+            "again": 0,
+            "hard": 1,
+            "good": 0,
+            "easy": 1
+          },
+          "history": [
+            {
+              "grade": "hard",
+              "at": "2026-06-09T11:33:06.074Z",
+              "nextDueAt": "2026-06-09T11:39:06.074Z"
+            },
+            {
+              "grade": "easy",
+              "at": "2026-06-14T11:20:00.726932Z",
+              "nextDueAt": "2026-06-18T11:20:00.726950Z"
+            }
+          ]
+        },
+        {
+          "id": "card-1781003416514-5c9d302fe228b8",
+          "term": "bow down",
+          "definition": "кланятися в знак поваги",
+          "dueAt": "2026-06-13T11:33:10.081Z",
+          "lastReviewedAt": "2026-06-09T11:33:10.081Z",
+          "intervalMs": 345600000,
+          "reviewCount": 1,
+          "stats": {
+            "again": 0,
+            "hard": 0,
+            "good": 0,
+            "easy": 1
+          },
+          "history": [
+            {
+              "grade": "easy",
+              "at": "2026-06-09T11:33:10.081Z",
+              "nextDueAt": "2026-06-13T11:33:10.081Z"
+            }
+          ]
+        },
+        {
+          "id": "card-1781003416514-2dcf44c1127838",
+          "term": "approach",
+          "definition": "підготовка до головного випробування",
+          "dueAt": "2026-06-10T15:47:14.500Z",
+          "lastReviewedAt": "2026-06-10T15:41:14.500Z",
+          "intervalMs": 360000,
+          "reviewCount": 2,
+          "stats": {
+            "again": 1,
+            "hard": 1,
+            "good": 0,
+            "easy": 0
+          },
+          "history": [
+            {
+              "grade": "again",
+              "at": "2026-06-09T11:33:21.322Z",
+              "nextDueAt": "2026-06-09T11:34:21.322Z"
+            },
+            {
+              "grade": "hard",
+              "at": "2026-06-10T15:41:14.500Z",
+              "nextDueAt": "2026-06-10T15:47:14.500Z"
+            }
+          ]
+        },
+        {
+          "id": "card-1781003416514-ea8f27199e1a68",
+          "term": "departure",
+          "definition": "відправка у подорож",
+          "dueAt": "2026-06-10T15:47:18.027Z",
+          "lastReviewedAt": "2026-06-10T15:41:18.027Z",
+          "intervalMs": 360000,
+          "reviewCount": 2,
+          "stats": {
+            "again": 0,
+            "hard": 2,
+            "good": 0,
+            "easy": 0
+          },
+          "history": [
+            {
+              "grade": "hard",
+              "at": "2026-06-09T11:33:26.583Z",
+              "nextDueAt": "2026-06-09T11:39:26.583Z"
+            },
+            {
+              "grade": "hard",
+              "at": "2026-06-10T15:41:18.027Z",
+              "nextDueAt": "2026-06-10T15:47:18.027Z"
+            }
+          ]
+        },
+        {
+          "id": "card-1781003416514-28914eca9b3a2",
+          "term": "treasure",
+          "definition": "скарб",
+          "dueAt": "2026-06-10T15:47:25.133Z",
+          "lastReviewedAt": "2026-06-10T15:41:25.133Z",
+          "intervalMs": 360000,
+          "reviewCount": 3,
+          "stats": {
+            "again": 2,
+            "hard": 1,
+            "good": 0,
+            "easy": 0
+          },
+          "history": [
+            {
+              "grade": "again",
+              "at": "2026-06-09T11:15:04.840Z",
+              "nextDueAt": "2026-06-09T11:16:04.840Z"
+            },
+            {
+              "grade": "again",
+              "at": "2026-06-09T11:33:44.210Z",
+              "nextDueAt": "2026-06-09T11:34:44.210Z"
+            },
+            {
+              "grade": "hard",
+              "at": "2026-06-10T15:41:25.133Z",
+              "nextDueAt": "2026-06-10T15:47:25.133Z"
+            }
+          ]
+        },
+        {
+          "id": "card-1781003416514-cfa45a95ac64f8",
+          "term": "assistance",
+          "definition": "допомога або зустрітися з наставником",
+          "dueAt": "2026-06-10T15:51:34.173Z",
+          "lastReviewedAt": "2026-06-10T15:41:34.173Z",
+          "intervalMs": 600000,
+          "reviewCount": 3,
+          "stats": {
+            "again": 1,
+            "hard": 0,
+            "good": 2,
+            "easy": 0
+          },
+          "history": [
+            {
+              "grade": "good",
+              "at": "2026-06-09T11:15:09.227Z",
+              "nextDueAt": "2026-06-09T11:25:09.227Z"
+            },
+            {
+              "grade": "again",
+              "at": "2026-06-09T11:33:53.998Z",
+              "nextDueAt": "2026-06-09T11:34:53.998Z"
+            },
+            {
+              "grade": "good",
+              "at": "2026-06-10T15:41:34.173Z",
+              "nextDueAt": "2026-06-10T15:51:34.173Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

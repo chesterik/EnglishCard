@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="uk">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>EnglishCard</title>
+    <script>
+      (() => {
+        const savedTheme = localStorage.getItem("englishCardTheme");
+        const systemDark = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches;
+        document.documentElement.dataset.theme = savedTheme || (systemDark ? "dark" : "light");
+      })();
+    </script>
+    <link rel="apple-touch-icon" sizes="180x180" href="icons/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="icons/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="icons/favicons/favicon-16x16.png">
+    <link rel="icon" href="icons/favicons/favicon.ico">
+    <link rel="manifest" href="icons/favicons/site.webmanifest">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body data-page="home">
+    <header class="topbar">
+      <div class="brandBlock">
+        <span class="brandMark">EC</span>
+        <div>
+          <h1>EnglishCard</h1>
+          <p data-i18n="subtitle"></p>
+        </div>
+      </div>
+      <div class="topActions">
+        <button id="homeBtn" class="iconButton" aria-label="Home">&#8962;</button>
+        <div class="languageDropdown">
+          <button id="languageButton" class="iconButton wide" type="button">UA</button>
+          <div id="languageMenu" class="languageMenu hidden">
+            <button type="button" data-lang="uk">UA</button>
+            <button type="button" data-lang="en">US</button>
+            <button type="button" data-lang="ru">RU</button>
+          </div>
+        </div>
+        <button id="themeToggle" class="iconButton" type="button" aria-label="Theme">&#9728;</button>
+      </div>
+    </header>
+
+    <main id="homeScreen" class="homeScreen">
+      <section class="homeHero">
+        <div>
+          <span class="homeEyebrow" data-i18n="homeEyebrow"></span>
+          <h2 data-i18n="homeTitle"></h2>
+          <p data-i18n="homeText"></p>
+          <div class="homeActions">
+            <button id="openCardsBtn" class="primary" data-i18n="openCards"></button>
+          </div>
+        </div>
+        <div class="homeStats">
+          <div><strong id="homeSetCount">0</strong><span data-i18n="setsStat"></span></div>
+          <div><strong id="homeCardCount">0</strong><span data-i18n="cardsStat"></span></div>
+        </div>
+      </section>
+
+      <section class="moduleGrid">
+        <button class="moduleCard activeModule" id="moduleCardsBtn">
+          <span class="moduleIcon">Aa</span>
+          <strong data-i18n="moduleCardsTitle"></strong>
+          <span data-i18n="moduleCardsText"></span>
+        </button>
+        <button class="moduleCard activeModule" id="moduleStatsBtn">
+          <span class="moduleIcon">St</span>
+          <strong data-i18n="moduleStatsTitle"></strong>
+          <span data-i18n="moduleStatsText"></span>
+        </button>
+        <button class="moduleCard comingSoon" type="button">
+          <span class="moduleIcon">Gr</span>
+          <strong data-i18n="moduleGrammarTitle"></strong>
+          <span data-i18n="moduleGrammarText"></span>
+          <em data-i18n="comingSoon"></em>
+        </button>
+        <button class="moduleCard comingSoon" type="button">
+          <span class="moduleIcon">Li</span>
+          <strong data-i18n="moduleListeningTitle"></strong>
+          <span data-i18n="moduleListeningText"></span>
+          <em data-i18n="comingSoon"></em>
+        </button>
+        <button class="moduleCard comingSoon" type="button">
+          <span class="moduleIcon">Tx</span>
+          <strong data-i18n="moduleTextsTitle"></strong>
+          <span data-i18n="moduleTextsText"></span>
+          <em data-i18n="comingSoon"></em>
+        </button>
+      </section>
+    </main>
+
+    <div id="commandPalette" class="commandPalette hidden" role="dialog" aria-modal="true">
+      <div class="commandBox">
+        <input id="commandInput" type="search" autocomplete="off" data-i18n-placeholder="commandPlaceholder">
+        <div id="commandList" class="commandList"></div>
+      </div>
+    </div>
+    <div id="toast" class="toast hidden"></div>
+    <script src="app.js?v=20260613-3"></script>
+  </body>
+</html>

@@ -1,0 +1,7 @@
+{
+  "token": "PASTE_TELEGRAM_BOT_TOKEN_HERE",
+  "allowed_user_ids": [],
+  "verify_ssl": true,
+  "check_seconds": 60,
+  "site_url": "http://192.168.1.25:3000"
+}

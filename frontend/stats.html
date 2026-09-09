@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="uk">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>EnglishCard - Stats</title>
+    <script>
+      (() => {
+        const savedTheme = localStorage.getItem("englishCardTheme");
+        const systemDark = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches;
+        document.documentElement.dataset.theme = savedTheme || (systemDark ? "dark" : "light");
+      })();
+    </script>
+    <link rel="apple-touch-icon" sizes="180x180" href="icons/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="icons/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="icons/favicons/favicon-16x16.png">
+    <link rel="icon" href="icons/favicons/favicon.ico">
+    <link rel="manifest" href="icons/favicons/site.webmanifest">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body data-page="stats">
+    <header class="topbar">
+      <div class="brandBlock"><span class="brandMark">EC</span><div><h1>EnglishCard</h1><p data-i18n="subtitle"></p></div></div>
+      <div class="topActions">
+        <button id="homeBtn" class="iconButton" aria-label="Home">&#8962;</button>
+        <div class="languageDropdown"><button id="languageButton" class="iconButton wide" type="button">UA</button><div id="languageMenu" class="languageMenu hidden"><button type="button" data-lang="uk">UA</button><button type="button" data-lang="en">US</button><button type="button" data-lang="ru">RU</button></div></div>
+        <button id="themeToggle" class="iconButton" type="button" aria-label="Theme">&#9728;</button>
+      </div>
+    </header>
+    <main id="statsScreen" class="statsScreen">
+      <section class="statsToolbar"><button id="statsBackBtn" class="secondary" data-i18n="home"></button></section>
+      <section class="statsGrid">
+        <article class="statsPanel"><h2 data-i18n="statsToday"></h2><p id="todayStatsText"></p></article>
+        <article class="statsPanel"><h2 data-i18n="statsFutureDue"></h2><p data-i18n="statsFutureText"></p><div id="futureDueBars" class="miniBars"></div></article>
+        <article class="statsPanel"><h2 data-i18n="statsReviews"></h2><p data-i18n="statsReviewsText"></p><div id="reviewBars" class="miniBars"></div></article>
+        <article class="statsPanel"><h2 data-i18n="statsCardCounts"></h2><div id="cardCountsTable" class="statsTable"></div></article>
+        <article class="statsPanel"><h2 data-i18n="statsAnswerButtons"></h2><p data-i18n="statsAnswerText"></p><div id="answerButtonsTable" class="statsTable"></div></article>
+        <article class="statsPanel"><h2 data-i18n="statsRetention"></h2><div id="retentionTable" class="statsTable"></div></article>
+      </section>
+    </main>
+    <div id="commandPalette" class="commandPalette hidden" role="dialog" aria-modal="true"><div class="commandBox"><input id="commandInput" type="search" autocomplete="off" data-i18n-placeholder="commandPlaceholder"><div id="commandList" class="commandList"></div></div></div>
+    <div id="toast" class="toast hidden"></div>
+    <script src="app.js?v=20260613-3"></script>
+  </body>
+</html>

@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="uk">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>EnglishCard - Editor</title>
+    <script>
+      (() => {
+        const savedTheme = localStorage.getItem("englishCardTheme");
+        const systemDark = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches;
+        document.documentElement.dataset.theme = savedTheme || (systemDark ? "dark" : "light");
+      })();
+    </script>
+    <link rel="apple-touch-icon" sizes="180x180" href="icons/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="icons/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="icons/favicons/favicon-16x16.png">
+    <link rel="icon" href="icons/favicons/favicon.ico">
+    <link rel="manifest" href="icons/favicons/site.webmanifest">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body data-page="editor">
+    <header class="topbar">
+      <div class="brandBlock"><span class="brandMark">EC</span><div><h1>EnglishCard</h1><p data-i18n="subtitle"></p></div></div>
+      <div class="topActions">
+        <button id="homeBtn" class="iconButton" aria-label="Home">&#8962;</button>
+        <div class="languageDropdown"><button id="languageButton" class="iconButton wide" type="button">UA</button><div id="languageMenu" class="languageMenu hidden"><button type="button" data-lang="uk">UA</button><button type="button" data-lang="en">US</button><button type="button" data-lang="ru">RU</button></div></div>
+        <button id="themeToggle" class="iconButton" type="button" aria-label="Theme">&#9728;</button>
+        <a id="newSetBtn" class="primary buttonLink" href="/new-set" data-i18n="newSet"></a>
+      </div>
+    </header>
+    <main id="appLayout" class="layout">
+      <aside class="sidebar"><div class="searchBox"><input id="searchInput" type="search" data-i18n-placeholder="searchSets"></div><div id="setList" class="setList"></div></aside>
+      <section class="workspace">
+        <div id="emptyState" class="emptyState"><h2 data-i18n="emptyTitle"></h2><p data-i18n="emptyText"></p><a id="emptyNewSetBtn" class="primary buttonLink" href="/new-set" data-i18n="createSet"></a></div>
+        <div id="editor" class="editor hidden">
+          <div class="modeBar"><button id="studyModeBtn" class="modeButton" data-i18n="studyMode"></button><button id="editorModeBtn" class="modeButton active" data-i18n="editorMode"></button></div>
+          <div id="editorHead" class="editorHead"><div><input id="titleInput" class="titleInput" data-i18n-placeholder="titlePlaceholder"><textarea id="descriptionInput" class="descriptionInput" data-i18n-placeholder="descriptionPlaceholder"></textarea></div><div class="actions"><button id="saveBtn" class="primary" data-i18n="save"></button><button id="deleteBtn" class="danger" data-i18n="delete"></button></div></div>
+          <div id="editView" class="view"><div id="cardRows" class="cardRows"></div><button id="addCardBtn" class="secondary" data-i18n="addCard"></button></div>
+        </div>
+      </section>
+    </main>
+    <div id="commandPalette" class="commandPalette hidden" role="dialog" aria-modal="true"><div class="commandBox"><input id="commandInput" type="search" autocomplete="off" data-i18n-placeholder="commandPlaceholder"><div id="commandList" class="commandList"></div></div></div>
+    <div id="toast" class="toast hidden"></div>
+    <script src="app.js?v=20260613-3"></script>
+  </body>
+</html>
